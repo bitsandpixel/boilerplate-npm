@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vishnu Kandanelly",
+	"url": "https://github.com/bitsandpixel/",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
